@@ -4,7 +4,6 @@ of any number entered by the user.
 ## Features
 - Calculates factorials of any positive integer
 - Accepts user input from the terminal
-- Includes input validation for negative numbers
 - Handles invalid user input
 - Easy to use and beginner friendly
 ## Requirements
